@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name zlibrary
+// @author https://github.com/buithehoa/userscripts/blob/master/zlibrary.user.js
 // @version 1.1
 // @description Open search results in new tab and automatically trigger the download.
 //
