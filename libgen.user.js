@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name Library Genesis
+// @author https://github.com/buithehoa/userscripts/blob/master/libgen.user.js
 // @version 0.1.1
 // @description Open search results in new tab and automatically trigger the download.
 // @match *://libgen.io/search.php*
